@@ -18,18 +18,20 @@ El sistema identifica y expresa la información de las personas relacionadas con
 
 src/
 
-├── app/  # Clase principal con el método main
+├── cl/duoc/Llanquihue/ # Clase principal con el método main
 
-│   └── Main.java  
+         │   └── Main.java 
 
+                 └── Main.java 
+           
 │
 └── model/ # Clases de dominio (Persona, Empleado, Dirección, etc.)
    
-    ├── Persona.java
+              ├── Persona.java
    
-    ├── Empleado.java
+              ├── Empleado.java
    
-    └── Direccion.java
+              └── Direccion.java
 
 ⚙️ Instrucciones para ejecutar el proyecto
 
