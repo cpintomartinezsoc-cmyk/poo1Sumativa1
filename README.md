@@ -1,11 +1,12 @@
 <img width="488" height="157" alt="image" src="https://github.com/user-attachments/assets/350255f8-45da-4907-a5ee-9458272795e6" />
 
 🧠 Actividad Sumativa – Desarrollo Orientado a Objetos I
-👤 Autor del proyecto
 
+👤 Autor del proyecto
+        
          Nombre completo: Camilo Andrés Pinto Martinez
          Sección: 2
-         Carrera: Analista Programado
+         Carrera: Analista Programador
        
 
 📘 Descripción general del sistema
