@@ -36,12 +36,19 @@ src/
 ⚙️ Instrucciones para ejecutar el proyecto
 
 Clonar el repositorio desde GitHub: https://github.com/cpintomartinezsoc-cmyk/poo1Sumativa1.git
+
 Abrir el proyecto en IntelliJ IDEA.
+
 Verificar que la estructura de paquetes se encuentre correctamente configurada.
+
 Ejecutar la clase:
+
 app/Main.java
+
 Revisar la salida generada en consola.
+
 🧪 Prueba realizada
 
 Repositorio GitHub: https://github.com/cpintomartinezsoc-cmyk/poo1Sumativa1.git 
+
 Fecha de entrega: [08/06/2026]
